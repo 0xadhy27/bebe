@@ -1,0 +1,132 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+    .banner-content h1 {
+        font-size: 30px;
+    }
+
+    .banner-content p {
+        font-size: 16px;
+    }
+
+    .banner-content {
+        padding: 50px 0;
+    }
+
+    /* about start  */
+    .about h1 {
+        font-size: 30px;
+    }
+
+    /* about end */
+    /* phase start  */
+    .phase h1 {
+        font-size: 20px;
+    }
+
+    /* phase end  */
+    /* telegram start  */
+
+    .telegram{
+        padding: 80px 0;
+    }
+
+    .telegram h1 {
+        font-size: 30px;
+    }
+
+    /* telegram end  */
+    footer h1 {
+        font-size: 30px;
+    }
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+
+    .banner-content h1 {
+        font-size: 40px;
+    }
+
+    /* about start  */
+    .about h1 {
+        font-size: 40px;
+    }
+
+    /* about end */
+    /* phase start  */
+    .phase h1 {
+        font-size: 30px;
+    }
+
+    /* phase end  */
+    /* telegram start  */
+
+    .telegram h1 {
+        font-size: 40px;
+    }
+
+    /* telegram end  */
+    footer h1 {
+        font-size: 40px;
+    }
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .banner-content h1 {
+        font-size: 50px;
+    }
+
+    /* about start  */
+    .about h1 {
+        font-size: 40px;
+    }
+
+    /* about end */
+    /* phase start  */
+    .phase h1 {
+        font-size: 30px;
+    }
+
+    /* phase end  */
+    /* telegram start  */
+
+    .telegram h1 {
+        font-size: 40px;
+    }
+
+    /* telegram end  */
+    footer h1 {
+        font-size: 40px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* about start  */
+    .about h1 {
+        font-size: 50px;
+        letter-spacing: 3px;
+    }
+
+    /* about end */
+    /* phase start  */
+    .phase h1 {
+        font-size: 40px;
+        letter-spacing: 3px;
+    }
+
+    /* phase end  */
+}
+
+/*X large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/*XX Large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {}
